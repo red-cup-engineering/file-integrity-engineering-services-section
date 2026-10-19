@@ -1,0 +1,4 @@
+[submodule "file-cryptographic-integrity-service"]
+	path = services/file-cryptographic-integrity-service
+	url = https://github.com/red-cup-engineering/file-cryptographic-integrity-service.git
+	branch = main
